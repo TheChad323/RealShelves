@@ -1,0 +1,8 @@
+author: TheChad323
+database: false
+description: Pull books off Shelves
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: org.vortexport.realshelves.RealShelves
+name: RealShelves
+startup: postworld
+version: '0.1'
